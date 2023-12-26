@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=www-boop&label=Profile%20views&color=38e8ff&style=plastic" alt="www-boop" /> </p>
 
-<h1 align="center"> - 📫 How to reach me wikran644@gmail.com</h1>
+<p align="center"> - 📫 How to reach me wikran644@gmail.com</p>
 
 <p align="center"> - ⚡ Fun fact Huh ?</p>
 
