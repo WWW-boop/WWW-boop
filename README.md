@@ -17,5 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=www-boop&show_icons=true&theme=dark&locale=en&layout=compact" alt="www-boop" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=www-boop&show_icons=true&theme=dark&locale=en" alt="www-boop" /></p>
 </div>
