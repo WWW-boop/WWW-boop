@@ -1,4 +1,4 @@
- ![IMG_8072_Original](https://i.pinimg.com/originals/17/ef/97/17ef974f6c0c500b8e2e1e683ecea8f5.gif)
+ ![IMG_8072_Original](https://i.pinimg.com/originals/e4/7c/67/e47c6734006f65fdf8df8a0c3f359ba1.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=www-boop&label=Profile%20views&color=38e8ff&style=plastic" alt="www-boop" /> </p>
 
