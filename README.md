@@ -1,4 +1,4 @@
-![IMG_8072_Original](https://github.com/DatboisouL/DatboisouL/assets/151647112/6d37b0ec-8d06-4b11-974f-5b3296f86bc3)
+![IMG_8072_Original](https://i.pinimg.com/originals/17/ef/97/17ef974f6c0c500b8e2e1e683ecea8f5.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=www-boop&label=Profile%20views&color=38e8ff&style=plastic" alt="www-boop" /> </p>
 
