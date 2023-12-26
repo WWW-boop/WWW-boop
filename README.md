@@ -3,8 +3,7 @@
   
 ![IMG_8072_Original](https://i.pinimg.com/originals/e4/7c/67/e47c6734006f65fdf8df8a0c3f359ba1.gif)
 
-<br>
-<br>
+<br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=www-boop&label=Profile%20views&color=38e8ff&style=plastic" alt="www-boop" /> </p>
 
