@@ -21,7 +21,9 @@
 
 <br/>
 
+<a href="https://www.leetcode.com/wikran644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wikran644" height="30" width="40" /></a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=www-boop&show_icons=true&theme=dark&locale=en" alt="www-boop" /></p>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=www-boop" alt="www-boop" /></a> </p>
+
