@@ -9,7 +9,7 @@
 
 <p align="center"> - 📫 How to reach me <b>wikran644@gmail.com</b></p>
 
-<p align="center"> - ⚡ Fun fact Huh ?</p>
+<p align="center"> - ⚡ Fun fact <b>Huh?</b></p>
 
 
 <p align="center"></p>
